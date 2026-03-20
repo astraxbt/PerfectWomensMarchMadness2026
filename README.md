@@ -21,3 +21,4 @@ The manifest contains the SHA-256 of the original full file and each part.
 4. Then inspect any bracket with:
    python read_bracket.py 0
    python read_bracket.py 1000
+Expected rebuilt file size: 186,646,528 bytes
