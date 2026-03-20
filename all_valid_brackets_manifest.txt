@@ -1,0 +1,38 @@
+Original file: all_valid_brackets.bin
+Original size: 186646528 bytes
+Original SHA-256: 09a1e82bab0da011411d77c7cf49350bad65ed6c9f355a99425819aac52213e3
+Number of parts: 8
+Approx part size: 23330816 bytes
+
+all_valid_brackets.part01.bin
+Size: 23330816 bytes
+SHA-256: 377e4c81f13a1ba0ca5573e4bb79a941eb5bb9880c8de0123b445ae85fe02ad9
+
+all_valid_brackets.part02.bin
+Size: 23330816 bytes
+SHA-256: 9c67aa55213e93979503c8628f7393882b4fc34f2a7858a12ab22f9057702e34
+
+all_valid_brackets.part03.bin
+Size: 23330816 bytes
+SHA-256: d08d88434ec9e86ae1d3499383b9352eec2c7d2fc715b27896ee8b776d4b473b
+
+all_valid_brackets.part04.bin
+Size: 23330816 bytes
+SHA-256: a45d1eae8ba9de38401617409abc7b18ad954a4bf7e585e0cc51436d49b7288f
+
+all_valid_brackets.part05.bin
+Size: 23330816 bytes
+SHA-256: 9cb8ad6d5547b14a410dbd738eced1a840ad70755969a822196908b446865de1
+
+all_valid_brackets.part06.bin
+Size: 23330816 bytes
+SHA-256: e1d09d7eb46d839af4f23cfa8082efede9207200a0c77948ba278a4473b7dec0
+
+all_valid_brackets.part07.bin
+Size: 23330816 bytes
+SHA-256: fd0802e4006734a927725d8511a6fbab300bbdbb90a9c01f9d81dba2bbecb5f9
+
+all_valid_brackets.part08.bin
+Size: 23330816 bytes
+SHA-256: 4b1d684c1f27b1869e6e4cadb509cad6b6821dd72aa863ef63961b667ee40f31
+
