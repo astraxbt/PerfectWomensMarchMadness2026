@@ -14,3 +14,10 @@ Files:
 - all_valid_brackets_manifest.txt
 
 The manifest contains the SHA-256 of the original full file and each part.
+
+1. Download all 8 .bin part files plus reassemble_file.py
+2. Run: python reassemble_file.py
+3. This rebuilds all_valid_brackets.bin
+4. Then inspect any bracket with:
+   python read_bracket.py 0
+   python read_bracket.py 1000
